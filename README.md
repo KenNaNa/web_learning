@@ -16,3 +16,7 @@ https://chenshenhai.github.io/koa2-note/
 # koa2 设计模式
 
 https://chenshenhai.github.io/koajs-design-note/
+
+# php 如何实现一个http服务器
+
+https://segmentfault.com/a/1190000007938431
